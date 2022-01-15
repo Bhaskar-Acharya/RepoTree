@@ -1,0 +1,12 @@
+C:\Bhaskar\Projects\RepoTree\bin\Debug\RepoTree.exe.config
+C:\Bhaskar\Projects\RepoTree\bin\Debug\RepoTree.exe
+C:\Bhaskar\Projects\RepoTree\bin\Debug\RepoTree.pdb
+C:\Bhaskar\Projects\RepoTree\obj\Debug\RepoTree.Form1.resources
+C:\Bhaskar\Projects\RepoTree\obj\Debug\RepoTree.Properties.Resources.resources
+C:\Bhaskar\Projects\RepoTree\obj\Debug\RepoTree.csproj.GenerateResource.cache
+C:\Bhaskar\Projects\RepoTree\obj\Debug\RepoTree.exe
+C:\Bhaskar\Projects\RepoTree\obj\Debug\RepoTree.pdb
+C:\Bhaskar\Projects\RepoTree\obj\Debug\RepoTree.csproj.CoreCompileInputs.cache
+C:\Bhaskar\Projects\RepoTree\obj\Debug\RepoTree.csproj.AssemblyReference.cache
+C:\Bhaskar\Projects\RepoTree\obj\Debug\RepoTree.csproj.SuggestedBindingRedirects.cache
+C:\Bhaskar\Projects\RepoTree\obj\Debug\RepoTree.csproj.ResolveComReference.cache
